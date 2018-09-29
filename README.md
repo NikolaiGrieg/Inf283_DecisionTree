@@ -1,0 +1,1 @@
+To run the program, run "Environment.py". The parameters of learn (line 23) and print_tree (line 30) can be configured.
